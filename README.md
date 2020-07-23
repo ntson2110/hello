@@ -25,3 +25,4 @@
 <a href="https://github.com/ntson2110/LayoutSample">Thiết kế giao diện người dùng  </a>
 
 <a href="https://github.com/ntson2110/daoquanhandroid">Dạo quanh ứng dụng Android trong Android Studio 3.X </a>
+![image](https://scontent.fdad1-1.fna.fbcdn.net/v/t1.0-9/109697531_145974280454993_8722260899267909323_n.jpg?_nc_cat=106&_nc_sid=110474&_nc_ohc=zVpQY-uhXKsAX-w0Ru_&_nc_ht=scontent.fdad1-1.fna&oh=3f88999195d5791ace42b163ea693ce3&oe=5F408745)
