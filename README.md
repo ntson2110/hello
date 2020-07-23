@@ -12,7 +12,7 @@
 
 <a href="https://github.com/ntson2110/ImplicitIntent">Đối tượng Intent trong Android Phần 2</a>
 
-<a href="https://github.com/ntson2110/SendBroadcat">Đối tượng Intent trong Android Phần 3</a>
+<a href="https://github.com/ntson2110/SendBroadca">Đối tượng Intent trong Android Phần 3</a>
 
 <a href="https://github.com/ntson2110/CommonGestures">Phát hiện cử chỉ người dùng </a>
 
